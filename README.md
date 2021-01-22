@@ -1,5 +1,7 @@
 ### About me
 
+Studying computer engineering at Østfold University Collage
+
 work in progress...
 
 <!--
