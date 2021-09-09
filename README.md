@@ -3,17 +3,19 @@
 Studying computer engineering at Østfold University Collage
 
 #### The courses i am taking
-- Statistics and statistical programming
-- Database systems
-- Introduction to computer security
+- Practical machine learning 
+- Applied Robotics
+- Digital control and cyber-physical systems 
 - DigiFab
 
 #### The courses I am done with
 - Physics and chemistry
 - Calculus / Discrete mathematics
+- Statistics and statistical programming
 - Programming 1/2
-- Web development
+- Web development / Database systems
 - Computer networks / technology
+- Introduction to computer security
 - Technology project
 
 
