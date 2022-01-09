@@ -1,6 +1,6 @@
 ### About me
 
-Studying computer engineering at Østfold University Collage
+Studying computer engineering at Østfold University Collage (HIOF)
 
 #### The courses i attend
 - Practical machine learning 
@@ -17,6 +17,13 @@ Studying computer engineering at Østfold University Collage
 - Computer networks / technology
 - Introduction to computer security
 - Technology project
+
+### Repos related to HIOF
+- JavaScript: [HIOF-Intro-to-programming](https://github.com/Tobhal/HIOF-Intro-to-programming)
+- Java: [HIOF-OOP](https://github.com/Tobhal/HIOF-OOP)
+- Kotlin: [HIOF-Algorithms-and-data-structures](https://github.com/Tobhal/HIOF-Algorithms-and-data-structures)
+- Practical machine learning: [HIOF-Practical-machine-learning](https://github.com/Tobhal/HIOF-Practical-machine-learning)
+- SQL: [HIOF-Databaser](https://github.com/Tobhal/HIOF-Databaser)
 
 
 work in progress...
