@@ -1,32 +1,19 @@
 ### About me
+Master student studying Applied computer science at Østfold University College (HIOF) and specializes in Machine learning and Cyber-physical systems.
 
-Studying computer engineering at Østfold University Collage (HIOF)
+### Master thesis
+Currently writing my masters thesis
 
-#### The courses i attend
-- Practical machine learning 
-- Applied Robotics
-- Digital control and cyber-physical systems 
-- DigiFab
+### Bachelor thesis
+The code for the bachelor thesis I wrote at HIOF is awailable in this repo: [https://github.com/Tobhal/Tremolometer](https://github.com/Tobhal/Tremolometer)
 
-#### The courses I have completed
-- Physics and chemistry
-- Calculus / Discrete mathematics
-- Statistics and statistical programming
-- Programming 1/2
-- Web development / Database systems
-- Computer networks / technology
-- Introduction to computer security
-- Technology project
-
-### Repos related to HIOF
+### Other repos related to HIOF
 - JavaScript: [HIOF-Intro-to-programming](https://github.com/Tobhal/HIOF-Intro-to-programming)
 - Java: [HIOF-OOP](https://github.com/Tobhal/HIOF-OOP)
 - Kotlin: [HIOF-Algorithms-and-data-structures](https://github.com/Tobhal/HIOF-Algorithms-and-data-structures)
 - Practical machine learning: [HIOF-Practical-machine-learning](https://github.com/Tobhal/HIOF-Practical-machine-learning)
 - SQL: [HIOF-Databaser](https://github.com/Tobhal/HIOF-Databaser)
 
-
-work in progress...
 
 <!--
 **Tobhal/Tobhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
